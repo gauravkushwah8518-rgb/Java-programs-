@@ -9,7 +9,7 @@ public class quadrant
 
         int x = 0;
         int y = 0;
-        System.err.print("Enter the x-coordinate: ");5
+        System.err.print("Enter the x-coordinate: ");
         x = scanner.nextInt();
         System.err.print("Enter the y-coordinates: ");
         y = scanner.nextInt();
