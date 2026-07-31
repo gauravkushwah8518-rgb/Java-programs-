@@ -1,6 +1,6 @@
 import java.util.Scanner; // 1. Import the Scanner class
 
-public class i {
+public class add {
     public static void main(String[] args) {
         int i = 10;  //assign value
         int y = 5;
