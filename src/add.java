@@ -2,8 +2,8 @@ import java.util.Scanner; // 1. Import the Scanner class
 
 public class add {
     public static void main(String[] args) {
-        int i = 10;  //assign value
-        int y = 5;
+        long i = 10;  //assign value
+        long y = 5;
         Scanner sc = new Scanner (System.in);
 
         System.out.println("enter first number");
@@ -11,7 +11,7 @@ public class add {
         System.out.println("enter second number");
         y = sc.nextInt();
 
-        int sum = i + y;
+        long sum = i + y;
         System.out.println("print sum ="+sum);      // OUTPUT
         sc.close();
     }
