@@ -1,6 +1,6 @@
 import java.util.Scanner; // 1. Import the Scanner class
 
-public class in {
+public class inputs {
     public static void main(String[] args) {
         // 2. Create a Scanner object to read from standard input (keyboard)
         Scanner scanner = new Scanner(System.in);
