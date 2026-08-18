@@ -1,5 +1,4 @@
-import java.util.Scanner; // 1. Import the Scanner class
-
+import java.util.Scanner; // 1
 public class inputs {
     public static void main(String[] args) {
         // 2. Create a Scanner object to read from standard input (keyboard)
